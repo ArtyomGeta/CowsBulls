@@ -7,6 +7,7 @@ For example: Conceived secret number "3219". Attempt: "2310". Result: two “cow
 Players make attempts to guess by turns. The winner is the one who guesses the number first, provided that he did not start 
 the game. If the guesser started the game, his opponent is given the last chance to guess the sequence.
 When playing against the computer, the player enters combinations one by one, until the entire sequence is guessed.
+To work you need Java-machine 8-th version.
 If you got bugs, please report me:
 silent.roar19@gmail.com
 
